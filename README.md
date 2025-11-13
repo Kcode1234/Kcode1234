@@ -71,22 +71,7 @@ Adoro aprender idiomas, ler livros de fantasia e explorar novas formas de unir *
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
-<img 
-    align="left" 
-    alt="Google Looker Studio"
-    title="Google Looker Studio"
-    width="40px"
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Google_Looker_Studio_Logo.svg" 
-/>
-<img 
-    align="left" 
-    alt="Excel"
-    title="Excel"
-    width="40px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="Git"
