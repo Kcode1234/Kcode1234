@@ -20,7 +20,7 @@ Adoro aprender idiomas, ler livros de fantasia e explorar novas formas de unir *
 ---
 
 📫 **Entre em contato comigo:**  
-- 💼 [LinkedIn](https://www.linkedin.com/) _(adicione seu link depois)_  
+- 💼 linkedin.com/in/karen-campos-493022239  
 - 📧 karenbeatrizcaca@gmail.com 
 
 ---
